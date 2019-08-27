@@ -3,4 +3,5 @@ chop avocados
 dice onions
 squeeze limes
 mix well
+add cilantro
 add salt
